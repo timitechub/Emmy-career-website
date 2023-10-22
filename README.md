@@ -1,2 +1,3 @@
 # Emmy-career-website
-Timmy
+A career website for Timmy
+
